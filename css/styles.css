@@ -106,6 +106,7 @@ body {
     letter-spacing: 0.06em;
     color: var(--white-text-color);
     background: var(--accent-color);
+    cursor: pointer;
 }
 
 .hero-btn:hover,
@@ -193,6 +194,7 @@ body {
     letter-spacing: 0.03em;
     color: var(--main-text-color);
     background: #F5F4FA;
+    cursor: pointer;
 }
 
 .filter-list-btn:hover,
